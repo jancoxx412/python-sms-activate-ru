@@ -60,13 +60,13 @@ class SmsTypes:
 
 	class Operator:
 		MTS = 'mts'
-		tsel = 'telkomsel'
+		Tsel = 'telkomsel'
 		Beeline = 'beeline'
 		Megafon = 'megafon'
 		TELE2 = 'tele2'
-		any = 'any'
-		three = 'three'
-		indosat = 'indosat'
-		smartfren = 'smartfren'
+		Any = 'any'
+		Three = 'three'
+		Indosat = 'indosat'
+		Smartfren = 'smartfren'
 
 		

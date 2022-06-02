@@ -28,7 +28,7 @@ def requirements():
 
 setup(
 	name='smsactivateru',
-	version='1.2.6',
+	version='1.2.9',
 	long_description=long_description(),
 	long_description_content_type='text/markdown',
 	description='Wrapper for automatic reception of SMS-messages by sms-activate.ru',
@@ -36,8 +36,8 @@ setup(
 	license='Apache License, Version 2.0, see LICENSE file',
 	keywords='sms, revice, sms-activate-ru, autoreg',
 	author_email='tezmenpro@gmail.com',
-	url='https://github.com/tezmen/python-sms-activate-ru',
-	download_url='https://github.com/tezmen/python-sms-activate-ru/archive/master.zip',
+	url='https://github.com/jancoxx412/python-sms-activate-ru',
+	download_url='https://github.com/jancoxx412/python-sms-activate-ru/archive/master.zip',
 	packages=['smsactivateru'],
 	install_requires=requirements(),
 	classifiers=[
